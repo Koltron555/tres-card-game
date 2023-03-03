@@ -6,6 +6,8 @@ authors = ["Koltron555 <tabek007@hsd.k12.or.us>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+PyQt6 = "^6.4.2"
+PyQt5 = "^5.15.9"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
